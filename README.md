@@ -6,7 +6,7 @@ I am a faculty member at the School of Food Science and Bioengineering, Tianjin 
 
 I combine food chemistry, instrumental analysis, stable isotope techniques, metabolomics, spectral data, and machine learning to turn complex food signals into reliable evidence for quality, origin, and authenticity.
 
-[Personal website](https://lzl-academic-cv.rjw111212.chatgpt.site) · [Email](mailto:lzl_yxl@163.com)
+[Personal website](https://zhaolong-liu.yuxinlei518.chatgpt.site) · [Email](mailto:lzl_yxl@163.com)
 
 ## Research interests
 
