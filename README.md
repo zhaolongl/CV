@@ -27,7 +27,7 @@ I combine food chemistry, instrumental analysis, stable isotope techniques, meta
 
 ## Research projects
 
-2. **Principal Investigator of the Open Fund Project of the Tianjin Key Laboratory of Intelligent Breeding of Major Crops (Grant No. KLIBMC2606)** — Principal Investigator
+2. **The Open Fund Project of the Tianjin Key Laboratory of Intelligent Breeding of Major Crops (Grant No. KLIBMC2606)** — Principal Investigator
 2. **2025 Fujian Science and Technology Commissioner Program** — Principal Investigator
 3. **2024 Fujian Science and Technology Commissioner Program** — Principal Investigator
 4. **Mechanistic Research on Royal Jelly Traceability Based on Stable Isotope Fractionation** — General Program of the National Natural Science Foundation of China; Participant
