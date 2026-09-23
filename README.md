@@ -1,8 +1,8 @@
 # Hi, I'm Zhaolong Liu 👋
 
-### Faculty Member · Food Science & Bioengineering
+### Faculty Member · Tianjin Agricultural University
 
-I am a faculty member at the School of Food Science and Bioengineering, Tianjin Agricultural University. My research focuses on **fruit wine brewing and quality control**, **food authenticity identification**, and **food traceability**.
+I am a faculty member at the School of Food Science and Bioengineering, **Tianjin Agricultural University**. My research focuses on **fruit wine brewing and quality control**, **food authenticity identification**, and **food traceability**.
 
 I combine food chemistry, instrumental analysis, stable isotope techniques, metabolomics, spectral data, and machine learning to turn complex food signals into reliable evidence for quality, origin, and authenticity.
 
