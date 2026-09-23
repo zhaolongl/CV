@@ -6,7 +6,7 @@ I am a faculty member at the School of Food Science and Bioengineering, Tianjin 
 
 I combine food chemistry, instrumental analysis, stable isotope techniques, metabolomics, spectral data, and machine learning to turn complex food signals into reliable evidence for quality, origin, and authenticity.
 
-[Personal website](https://zhaolong-liu.yuxinlei518.chatgpt.site) · [Email](mailto:lzl_yxl@163.com)
+[Personal website](https://zhaolong-liu.yuxinlei518.chatgpt.site) · [Email](mailto:liuzl2026@tjau.edu.cn)
 
 ## Research interests
 
@@ -15,14 +15,6 @@ I combine food chemistry, instrumental analysis, stable isotope techniques, meta
 - Stable isotope analysis and fractionation mechanisms
 - Metabolomics and food quality assessment
 - Machine learning for food science
-
-## Academic profile
-
-- **Current position:** Faculty Member, Tianjin Agricultural University
-- **Doctorate:** Ph.D. in Food Science, Chinese Academy of Agricultural Sciences
-- **Academic background:** Food Science and Engineering, Food Engineering
-- **Selected publications:** 9 academic papers in food science and technology journals
-- **Granted inventions:** 4 patents in food origin identification and royal jelly authentication
 
 ## Education and experience
 
@@ -35,10 +27,11 @@ I combine food chemistry, instrumental analysis, stable isotope techniques, meta
 
 ## Research projects
 
-1. **2025 Fujian Science and Technology Commissioner Program** — Principal Investigator
-2. **2024 Fujian Science and Technology Commissioner Program** — Principal Investigator
-3. **Mechanistic Research on Royal Jelly Traceability Based on Stable Isotope Fractionation** — General Program of the National Natural Science Foundation of China; Participant
-4. **Risk Assessment of Major Contamination Sources in Chinese Bee Honey** — Agricultural Product Quality and Safety Risk Assessment Program, Ministry of Agriculture and Rural Affairs; Participant
+2. **Principal Investigator of the Open Fund Project of the Tianjin Key Laboratory of Intelligent Breeding of Major Crops (Grant No. KLIBMC2606)** — Principal Investigator
+2. **2025 Fujian Science and Technology Commissioner Program** — Principal Investigator
+3. **2024 Fujian Science and Technology Commissioner Program** — Principal Investigator
+4. **Mechanistic Research on Royal Jelly Traceability Based on Stable Isotope Fractionation** — General Program of the National Natural Science Foundation of China; Participant
+5. **Risk Assessment of Major Contamination Sources in Chinese Bee Honey** — Agricultural Product Quality and Safety Risk Assessment Program, Ministry of Agriculture and Rural Affairs; Participant
 
 ## Selected publications
 
@@ -71,7 +64,7 @@ I combine food chemistry, instrumental analysis, stable isotope techniques, meta
 
 I welcome academic exchange and research collaboration in food authenticity, food quality assessment, fruit wine science, analytical chemistry, and machine learning.
 
-- **Email:** [lzl_yxl@163.com](mailto:lzl_yxl@163.com)
+- **Email:** [liuzl2026@tjau.edu.cn](mailto:liuzl2026@tjau.edu.cn)
 - **Address:** 22 Jin Jing Road, Xiqing District, Tianjin, China
 - **Postal code:** 300392
 
